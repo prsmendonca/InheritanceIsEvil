@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/best_client_with_history.dir/best_client_with_history.cpp.o  -o best_client_with_history 

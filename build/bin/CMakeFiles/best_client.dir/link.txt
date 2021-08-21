@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/best_client.dir/best_client.cpp.o  -o best_client 

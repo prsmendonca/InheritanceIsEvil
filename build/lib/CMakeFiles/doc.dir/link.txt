@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdoc.a  CMakeFiles/doc.dir/doc.cpp.o
-/usr/bin/ranlib libdoc.a

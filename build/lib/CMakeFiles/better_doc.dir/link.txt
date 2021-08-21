@@ -1,2 +1,0 @@
-/usr/bin/ar qc libbetter_doc.a  CMakeFiles/better_doc.dir/better_doc.cpp.o CMakeFiles/better_doc.dir/doc.cpp.o
-/usr/bin/ranlib libbetter_doc.a

@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/quiz.dir/quiz.cpp.o  -o quiz  ../lib/libbetter_doc.a 
