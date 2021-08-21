@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbad_doc.a  CMakeFiles/bad_doc.dir/bad_doc.cpp.o
+/usr/bin/ranlib libbad_doc.a

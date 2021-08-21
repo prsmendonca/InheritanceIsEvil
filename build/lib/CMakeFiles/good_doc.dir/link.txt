@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgood_doc.a  CMakeFiles/good_doc.dir/good_doc.cpp.o CMakeFiles/good_doc.dir/doc.cpp.o
+/usr/bin/ranlib libgood_doc.a

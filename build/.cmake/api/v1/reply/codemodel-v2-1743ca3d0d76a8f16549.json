@@ -1,0 +1,191 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Debug-e9069484d90298468a11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						2,
+						6,
+						8,
+						10
+					]
+				},
+				{
+					"build" : "bin",
+					"jsonFile" : "directory-bin-Debug-3d84778fa4221ebd449e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "bin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						7,
+						9,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "InheritanceIsEvil",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "alt_better_client::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-alt_better_client-Debug-07c163f43dc610c25e99.json",
+					"name" : "alt_better_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bad_client::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-bad_client-Debug-9a7268c301c4c8493a2a.json",
+					"name" : "bad_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bad_doc::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-bad_doc-Debug-62b5fd64c5427e6de8c0.json",
+					"name" : "bad_doc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "best_client::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-best_client-Debug-87a822530aeb876657ae.json",
+					"name" : "best_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "best_client_with_history::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-best_client_with_history-Debug-02e4571022a76bcc5a18.json",
+					"name" : "best_client_with_history",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "better_client::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-better_client-Debug-b7fd3055a5a154e2f495.json",
+					"name" : "better_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "better_doc::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-better_doc-Debug-bdc2050ae17f0c1a26c7.json",
+					"name" : "better_doc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "client::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-client-Debug-2d96d776ca058f0d126b.json",
+					"name" : "client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "doc::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-doc-Debug-67c3ec28adfc02e16884.json",
+					"name" : "doc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "good_client::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-good_client-Debug-b7a80a4d8fb67247610d.json",
+					"name" : "good_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "good_doc::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-good_doc-Debug-fae2e515ffd66838ee14.json",
+					"name" : "good_doc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "quiz::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-quiz-Debug-2823ebe2a5015eb90ddc.json",
+					"name" : "quiz",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/padossa/OneDrive/Paulo/Sandbox/InheritanceIsEvil/build",
+		"source" : "C:/Users/padossa/OneDrive/Paulo/Sandbox/InheritanceIsEvil/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

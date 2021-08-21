@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/bad_client.dir/bad_client.cpp.o  -o bad_client  ../lib/libbad_doc.a 

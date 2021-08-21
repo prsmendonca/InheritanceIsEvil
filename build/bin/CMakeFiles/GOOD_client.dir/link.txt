@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/GOOD_client.dir/GOOD_client.cpp.o  -o GOOD_client  ../lib/libgood_doc.a 

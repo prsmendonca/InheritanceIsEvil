@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/padossa/OneDrive/Paulo/Sandbox/InheritanceIsEvil/code/include/doc.h
+iostream
+-
+vector
+-
+
+/mnt/c/Users/padossa/OneDrive/Paulo/Sandbox/InheritanceIsEvil/code/lib/doc.cpp
+string
+-
+doc.h
+/mnt/c/Users/padossa/OneDrive/Paulo/Sandbox/InheritanceIsEvil/code/lib/doc.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/alt_better_client.dir/alt_better_client.cpp.o  -o alt_better_client  ../lib/libbetter_doc.a 
